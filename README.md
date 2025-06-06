@@ -11,6 +11,6 @@
 
 | Модель      | Режим работы      | Ветка репозитория |
 |-------------|------------------|------------------|
-| GPT_4 (может 3)       | Think Mode       | [`gpt`](https://github.com/yourname/ai-task1/tree/gpt-version) |
-| Gemini_Pro_2.5  | DeepResearch     | [`gemini`](https://github.com/yourname/ai-task1/tree/gemini-version) |
-| DeepSeek_r1   | DeepThink        | [`deepseek`](https://github.com/yourname/ai-task1/tree/deepseek-version) |
+| GPT_4 (может 3)       | Think Mode       | [`gpt`](https://github.com/alterAI01/ai-task1/tree/gpt_free) |
+| Gemini_Pro_2.5  | DeepResearch     | [`gemini`](https://github.com/alterAI01/ai-task1/tree/gemini_2.5) |
+| DeepSeek_r1   | DeepThink        | [`deepseek`](https://github.com/alterAI01/ai-task1/tree/deepseek_r1) |
